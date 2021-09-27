@@ -5,3 +5,7 @@ An investment oportunity for Des Moines Illinois city will be presented to a gro
 
 [link to dashboard](https://public.tableau.com/views/Challenge14_DesMoinesCitiBikeInvestmentNYCReference/CitibikeDesMoinsInvestment?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![Tableau Story](https://public.tableau.com/app/profile/jorge.cano6115/viz/Challenge14_DesMoinesCitiBikeInvestmentNYCReference/CitibikeDesMoinsInvestment)
+
+
+
